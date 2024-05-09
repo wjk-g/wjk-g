@@ -2,7 +2,7 @@
 **wjk-g/wjk-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Social researcher who codes. I analyse data and build tools for social research projects.
+### Social researcher who codes. I analyse data and build tools for research projects.
 
 #### Some of my projects
 
