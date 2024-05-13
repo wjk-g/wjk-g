@@ -6,10 +6,10 @@
 
 #### Some of my projects
 
-+ [BOX - Social Capital in Poland](https://box.kapitalspoleczny.org/home/) - A Django app created for a research project measuring social capital in Poland (still under development).
-+ [enlabel](https://github.com/wjk-g/enlabel) - A small library for labeling data in R. Forget about SPSS.
-+ [Shqutnique (aka TextRabbit)](https://github.com/wjk-g/TextRabbit) - Flask application providing GUI for some common NLP tasks including automatic transcription, segmentation, and network analysis.
-+ [LimeControl2](https://github.com/wjk-g/LimeControl2) - A Shiny R app for monitoring and managing survey solicitations.
++ [BOX - Social Capital in Poland](https://box.kapitalspoleczny.org) - A Django app created for a research project measuring social capital in Poland
++ [enlabel](https://github.com/wjk-g/enlabel) - A small library for labeling data in R. Forget about SPSS
++ [Shqutnique (aka TextRabbit)](https://github.com/wjk-g/TextRabbit) - Flask application providing GUI for some common NLP tasks including automatic transcription, segmentation, and network analysis
++ [LimeControl2](https://github.com/wjk-g/LimeControl2) - A Shiny R app for monitoring and managing survey solicitations
 
 #### Favourite technologies
 
