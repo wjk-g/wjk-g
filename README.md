@@ -20,5 +20,7 @@
 
 ![](https://img.shields.io/badge/Framework-Flask-lightgrey)
 ![](https://img.shields.io/badge/Framework-Django-darkgreen)
+
+![](https://img.shields.io/badge/Microframework-ObservableFramework-yellow)
 ![](https://img.shields.io/badge/Microframework-Shiny-lightblue)
 ![](https://img.shields.io/badge/Microframework-Streamlit-red)
